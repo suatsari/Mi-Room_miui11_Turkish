@@ -1360,5 +1360,10 @@
     <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
     <item>Ses kalitesi için optimize edilmiş (900kbps)</item>
     <item>En iyi çaba (Otomatik bit hızı)</item>
+  </string-array>
+  <string-array name="peek_notification_styles_entries">
+    <item>İki satır</item>
+    <item>Çift durum çubuğu</item>
+    <item>Bir satır</item>
   </string-array>  
 </resources>
