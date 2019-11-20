@@ -103,7 +103,7 @@
   <string name="like">Favorilerden ekle</string>
   <string name="liked">Favorilerden eklendi</string>
   <string name="load_hdpicture_complete">" Orijinal görüntü yüklendi"</string>
-  <string name="loading">" \"&amp;lt;CDATA&amp;gt;Sadece bir saniye&amp;amp;#8230;&amp;lt;/CDATA&amp;gt;\" "</string>
+  <string name="loading">" "<CDATA>Sadece bir saniye...</CDATA>" "</string>
   <string name="lockscreen_h5_back_tv">Geri</string>
   <string name="lockscreen_h5_close_tv">Kapalı</string>
   <string name="lockscreen_h5_refresh_btn_tv">Yenile</string>
@@ -152,7 +152,7 @@
   <string name="passport_back">Geri</string>
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_barcode_add_account_prompt">Bir hesabı bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
-  <string name="passport_change_account">&lt;u&gt;Hesabı değiştir&lt;/u&gt;</string>
+  <string name="passport_change_account">&lt;u>Hesabı değiştir&lt;/u></string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_checking_input">Giriş kontrol ediliyor…</string>
@@ -160,7 +160,7 @@
   <string name="passport_completed">Bitti</string>
   <string name="passport_confirm_login">Devam et</string>
   <string name="passport_confirm_recycle_account">Evet</string>
-  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;Görünüşe göre&lt;/font&gt; %s numarası operatörünüz tarafından geri dönüştürülmüş ve onunla ilişkilendirilmiş bir mi hesabı var. Bu hesap senin mi?</string>
+  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Görünüşe göre&lt;/font> %s numarası operatörünüz tarafından geri dönüştürülmüş ve onunla ilişkilendirilmiş bir mi hesabı var. Bu hesap senin mi?</string>
   <string name="passport_continue">Devam et</string>
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="passport_copy_message_vcode">Kopya kodu</string>
@@ -196,12 +196,12 @@
   <string name="passport_extra_gdpr_license">Mi Hesabınızı oluşturmak, Xiaomi\'nin kişisel verileri, doğrulama verileri (ör. doğrulama kodları), İkinci alan verileri (ör. İkinci alanı kullanmanın yolları, Birinci ve İkinci alanlarda kullanılan kimlikler hakkında bilgi) ve Gizlilik Politikamızda belirtilen diğer veriler de dahil olmak üzere toplayacağını, işleyeceğini ve kullanacağını kabul ettiğiniz anlamına gelir. Kişisel verileri nasıl işlediğimizi ve kullandığımızı öğrenmek için Gizlilik Politikamıza bakın.</string>
   <string name="passport_failed_to_send_activate_email">Etkinleştirme e-postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_forget_password">&lt;u&gt;Şifremi unuttum&lt;/u&gt;</string>
+  <string name="passport_forget_password">&lt;u>Şifremi unuttum&lt;/u></string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_innetdate_agree">Kontrol</string>
   <string name="passport_get_innetdate_disagree">Hayır</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Görünüşe göre&lt;/font&gt; %s numarası operatörünüz tarafından geri dönüştürülmüş. Numaranın çevrimiçi olup olmadığını kontrol et.</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Görünüşe göre&lt;/font> %s numarası operatörünüz tarafından geri dönüştürülmüş. Numaranın çevrimiçi olup olmadığını kontrol et.</string>
   <string name="passport_get_innetdate_title">Numaranın çevrimiçi olup olmadığını kontrol et</string>
   <string name="passport_get_verify_code">Kodu al</string>
   <string name="passport_getting_activator_phone">SIM bilgisi alınıyor…</string>
@@ -247,7 +247,7 @@
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_title">Şifrenizi girin</string>
   <string name="passport_quick_register">Kaydol</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;\"Bir mi hesabınız yok mu? Bir tane oluştur.\"&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">&lt;u>Bir mi hesabınız yok mu? Bir tane oluştur.&lt;/u></string>
   <string name="passport_re_get_verify_code">Kodu tekrar al</string>
   <string name="passport_re_register">Tekrar kaydol</string>
   <string name="passport_recycle_account_prompt">Bu senin Mi Hesabın mı?</string>
