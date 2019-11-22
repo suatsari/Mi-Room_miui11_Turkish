@@ -195,7 +195,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
 Önceki tüm kullanıcı verileriniz kaydedilecektir."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) şu anda yüklü olan (%3$s) yeini alacak. Mevcut tüm uygulama verileri kaydedilecek.</string>
   <string name="dlg_app_replacement_title">Uygulama değiştirilsin mi?</string>
-  <string name="dlg_appstore_notice">"&lt;u&gt;&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;&lt;/u&gt; dışındaki kaynaklardan gelen uygulamaların doğruluğunu veya güvenliğini doğrulayamıyoruz.."</string>
+  <string name="dlg_appstore_notice">"<u>&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;</u> dışındaki kaynaklardan gelen uygulamaların doğruluğunu veya güvenliğini doğrulayamıyoruz.."</string>
   <string name="disable_overlays">Donanım bindirmeleri devre dışı bırak</string>
   <string name="disable_overlays_summary">Her zaman ekran birleştirme için GPU\'yu kullan</string>
   <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
@@ -258,7 +258,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor.</string>
   <string name="install_failed_msg">"%1$s telefonunuza yüklenemedi."</string>
   <string name="install_failed_system_incompatible">"Bu uygulama MIUI ile uyumlu değil"</string>
-  <string name="install_from_appstore_hint">&lt;u&gt;&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;&lt;/u&gt;ndan uygulama yüklemenizi öneririz</string>
+  <string name="install_from_appstore_hint"><u>&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;</u>ndan uygulama yüklemenizi öneririz</string>
   <string name="keep_screen_on">Uyanık kal</string>
   <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
   <string name="install_failed_verify_failed">Paket doğrulamayı geçemedi ve yüklenemez.</string>

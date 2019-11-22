@@ -152,7 +152,7 @@
   <string name="passport_back">Geri</string>
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_barcode_add_account_prompt">Bir hesabı bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
-  <string name="passport_change_account">&lt;u>Hesabı değiştir&lt;/u></string>
+  <string name="passport_change_account"><u>Hesabı değiştir</u></string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_checking_input">Giriş kontrol ediliyor…</string>
@@ -196,7 +196,7 @@
   <string name="passport_extra_gdpr_license">Mi Hesabınızı oluşturmak, Xiaomi\'nin kişisel verileri, doğrulama verileri (ör. doğrulama kodları), İkinci alan verileri (ör. İkinci alanı kullanmanın yolları, Birinci ve İkinci alanlarda kullanılan kimlikler hakkında bilgi) ve Gizlilik Politikamızda belirtilen diğer veriler de dahil olmak üzere toplayacağını, işleyeceğini ve kullanacağını kabul ettiğiniz anlamına gelir. Kişisel verileri nasıl işlediğimizi ve kullandığımızı öğrenmek için Gizlilik Politikamıza bakın.</string>
   <string name="passport_failed_to_send_activate_email">Etkinleştirme e-postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_forget_password">&lt;u>Şifremi unuttum&lt;/u></string>
+  <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_innetdate_agree">Kontrol</string>
@@ -247,7 +247,7 @@
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_title">Şifrenizi girin</string>
   <string name="passport_quick_register">Kaydol</string>
-  <string name="passport_quick_register_notice">&lt;u>Bir mi hesabınız yok mu? Bir tane oluştur.&lt;/u></string>
+  <string name="passport_quick_register_notice"><u>Bir mi hesabınız yok mu? Bir tane oluştur.</u></string>
   <string name="passport_re_get_verify_code">Kodu tekrar al</string>
   <string name="passport_re_register">Tekrar kaydol</string>
   <string name="passport_recycle_account_prompt">Bu senin Mi Hesabın mı?</string>
@@ -261,7 +261,7 @@
   <string name="passport_reg_success">Hesap oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınıza bağlandı. Oturum açmak veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta adresi</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Alternatif telefon numarası kullan&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone"><u>Alternatif telefon numarası kullan</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">Yeni bir hesap kullanarak oluştur</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasını kullanarak hesap oluştur</string>
   <string name="passport_reg_via_sms_alert">Bu servisi etkinleştirmek için bir SMS mesajı göndermek gerekebilir. Bu mesaj için operatörünüz sizi ücretlendirecektir.</string>
@@ -269,7 +269,7 @@
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email">&lt;u&gt;E-posta adresini kullanarak bir hesap oluşturun&lt;/u&gt;</string>
+  <string name="passport_register_by_email"><u>E-posta adresini kullanarak bir hesap oluşturun</u></string>
   <string name="passport_register_restricted">Bu numarayla çok fazla hesap ilişkilendirildi, farklı bir tane deneyin</string>
   <string name="passport_register_restricted_title">Bu telefon numarasını kullanamazsınız</string>
   <string name="passport_registered_phone_num">Telefon: %s</string>
