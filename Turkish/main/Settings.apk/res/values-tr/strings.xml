@@ -4302,6 +4302,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="show_all_anrs_summary">Arkaplan uygulamalar için Uygulama Yanıt Vermiyor mesajını göster</string>
   <string name="show_all_apps">Tam cihaz kullanımını göster</string>
   <string name="show_background_processes">Önbellekteki işlemlerini göster</string>
+  <string name="show_charging_animation_on_lockscreen_title">Şarj animasyonunu göster</string>
   <string name="show_connected_devices_summary">Bağlı cihazları görüntüleyin</string>
   <string name="show_connected_devices_title">Bağlı cihazlar</string>
   <string name="show_dev_already">Gerek yok, sen zaten bir geliştiricisin.</string>
