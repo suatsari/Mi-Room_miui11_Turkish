@@ -267,6 +267,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="always">Her zaman</string>
   <string name="always_allow_bind_appwidgets_text">Bu uygulamanın verilerinin Widget oluşturma ve erişmesine izin vermek için seçtiniz.</string>
   <string name="always_running">Daima Çalışan: (%s)</string>
+  <string name="always_show_network_type_title">Durum çubuğunda her zaman ağ türünü göster</string>
   <string name="amber_alerts_summary">Çocuk kaçırma konusunda bültenleri alın</string>
   <string name="amber_alerts_title">UYARILAR</string>
   <string name="ambient_display_pickup_summary">Bildirimlerinizi hızlıca kontrol etmek için telefonunuzu elinize alın.</string>
@@ -4324,6 +4325,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="show_owner_info_on_lockscreen_label">Kilit ekranında imzayı göster</string>
   <string name="show_password">Şifreleri göster</string>
   <string name="show_password_summary">Yazarken karakterleri kısaca görüntüleyin</string>
+  <string name="show_powermenu_on_lockscreen_title">Kilit ekranında güç menüsünü göster</string>
   <string name="show_profile_info_on_lockscreen_label">Kilit ekranında profil bilgisini göster</string>
   <string name="show_rounded_corners">Köşeleri oval göster</string>
   <string name="show_running_services">Çalışan hizmetleri göster</string>
