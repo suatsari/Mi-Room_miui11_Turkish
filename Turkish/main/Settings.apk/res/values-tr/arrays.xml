@@ -1383,5 +1383,13 @@
     <item>Otomatik (önerilir)</item>
     <item>Doygun</item>
     <item>Orijinal renk</item>
+  </string-array>
+  <string-array name="select_minusscreen_entries"> 
+    <item>Uygulama Kasası</item> 
+    <item>Google</item> 
+  </string-array>
+  <string-array name="select_screen_time_app_title_entries"> 
+    <item>MIUI</item> 
+    <item>Google Dijital Denge</item> 
   </string-array>  
 </resources>
