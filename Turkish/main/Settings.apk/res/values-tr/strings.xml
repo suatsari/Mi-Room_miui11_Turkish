@@ -4309,6 +4309,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="share_remote_bugreport_dialog_title">Hata raporu paylaşılsın mı?</string>
   <string name="sharing_remote_bugreport_dialog_message">Bu hata raporu BT yöneticinizle paylaşılıyor. Daha fazla ayrıntı için onlarla iletişime geçin.</string>
   <string name="short_summary_font_size">Metni büyüt veya küçült</string>
+  <string name="show_4g_for_lte_title">LTE yerine 4G göster</string>
   <string name="show_all_anrs">Tüm ANR\'leri göster</string>
   <string name="show_all_anrs_summary">Arkaplan uygulamalar için Uygulama Yanıt Vermiyor mesajını göster</string>
   <string name="show_all_apps">Tam cihaz kullanımını göster</string>
