@@ -1680,6 +1680,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="domain_urls_title">Bağlantıları aç</string>
   <string name="done">Tamam</string>
   <string name="done_button">Tamam</string>
+  <string name="dont_select_inactive_sim">Etkin olmayan SIM\'i seçme</string>
   <string name="double_click_power_key">Güç düğmesine iki kez basın</string>
   <string name="double_tap_power_for_camera_summary">Kamerayı çabuk açmak için güç düğmesine iki kez dokunun. Tüm ekranlarda çalışır.</string>
   <string name="double_tap_power_for_camera_title">Kamerayı hızlı açma</string>
