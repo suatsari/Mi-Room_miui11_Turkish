@@ -1560,6 +1560,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="disable_service_message">Tamam\'a dokununca %1$s duracak.</string>
   <string name="disable_service_title">%1$s durdurulsun mu?</string>
   <string name="disable_text">Pasif</string>
+  <string name="disable_unlock_animation_title">Kilit açma animasyonunu devre dışı bırak</string>
   <string name="disabled">Pasif</string>
   <string name="disabled_authorised_apps_title">İptal edilen yetkilendirme</string>
   <string name="disabled_because_no_backup_security">Kullanmak için, öncelikle bir ekran kilidi ayarlayın</string>
