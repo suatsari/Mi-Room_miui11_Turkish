@@ -1215,7 +1215,7 @@ Sorun şunlar olabilir:
   <string name="cool_color">Soğuk</string>
   <string name="copyright_title">Telif Hakkı</string>
   <string name="corner_assistant_gesture_summary">Google Asistan\'ı başlatmak için sol veya sağ alttan yukarı kaydırın.</string>
-  <string name="corner_assistant_gesture_title">Yardımcı başlatma hareketi</string>
+  <string name="corner_assistant_gesture_title">Asistan başlatma hareketi</string>
   <string name="country_name">%s (sistem)</string>
   <string name="create">Oluştur</string>
   <string name="credential_contains">Bu giriş şunları içeriyor:</string>
