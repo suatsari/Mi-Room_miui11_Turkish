@@ -5238,6 +5238,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="use_location_summary">Google\'ın arama sonuçlarını ve diğer hizmetleri geliştirmek için konumunuzu kullanmasına izin verin</string>
   <string name="use_location_title">Konum &amp; Google arama</string>
   <string name="use_new_miui_gestures_title">Yeni hareketleri kullan</string>
+  <string name="use_only_dark_24hwallpaper_title">Karanlık modda sadece gece 24 saat duvar kağıdı kullan</string>
   <string name="use_open_wifi_automatically_summary">Yüksek kaliteli kamu ağlarına otomatik olarak bağlan</string>
   <string name="use_open_wifi_automatically_title">Açık ağlara bağlan</string>
   <string name="use_otg_charge_only">Ters şarj</string>
