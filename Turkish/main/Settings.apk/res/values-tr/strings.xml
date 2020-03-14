@@ -4462,6 +4462,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="show_password">Şifreleri göster</string>
   <string name="show_password_summary">Yazarken karakterleri kısaca görüntüleyin</string>
   <string name="show_powermenu_on_lockscreen_title">Kilit ekranında güç menüsünü göster</string>
+  <string name="show_privacy_behavior_icons_title">Gizlilik davranışı simgelerini göster</string>
   <string name="show_profile_info_on_lockscreen_label">Kilit ekranında profil bilgisini göster</string>
   <string name="show_rounded_corners">Köşeleri oval göster</string>
   <string name="show_running_services">Çalışan hizmetleri göster</string>
