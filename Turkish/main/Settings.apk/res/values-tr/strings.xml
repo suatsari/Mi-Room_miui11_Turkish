@@ -818,8 +818,8 @@ Sorun şunlar olabilir:
   <string name="bluetooth_map_profile_summary_use_for">Haritayı kullan</string>
   <string name="bluetooth_map_request">Mesaj erişim isteği</string>
   <string name="bluetooth_menu_advanced">Gelişmiş</string>
-  <string name="bluetooth_mi_fast_connect">Mi Link</string>
-  <string name="bluetooth_mi_fast_connect_summary">Yakınlardaki Bluetooth cihazlarına bağlanın</string>
+  <string name="bluetooth_mi_fast_connect">Uyumlu cihazları eşleştir</string>
+  <string name="bluetooth_mi_fast_connect_summary">Basitleştirilmiş bir eşleştirme işlemi kullanarak yakındaki cihazlara bağlanın</string>
   <string name="bluetooth_middle_name">Durum</string>
   <string name="bluetooth_name_not_set">İsim ayarlanmadı, hesap adı kullanılıyor</string>
   <string name="bluetooth_no_devices_found">Yakınlarda Bluetooth cihazı bulunamadı.</string>
@@ -5276,6 +5276,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="use_location_summary">Google\'ın arama sonuçlarını ve diğer hizmetleri geliştirmek için konumunuzu kullanmasına izin verin</string>
   <string name="use_location_title">Konum &amp; Google arama</string>
   <string name="use_new_miui_gestures_title">Yeni hareketleri kullan</string>
+  <string name="use_old_battery_icon_title">Eski pil simgesini kullan</string>
   <string name="use_only_dark_24hwallpaper_title">Karanlık modda sadece gece 24 saat duvar kağıdı kullan</string>
   <string name="use_open_wifi_automatically_summary">Yüksek kaliteli kamu ağlarına otomatik olarak bağlan</string>
   <string name="use_open_wifi_automatically_title">Açık ağlara bağlan</string>
